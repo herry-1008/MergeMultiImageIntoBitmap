@@ -1,13 +1,15 @@
 MergeMultiImageIntoBitmap
 =================================
-Requirement:
-1.given several small pictures, merge them into one bitmap.
+Requirement:<br/>
 
-look at following screenshots:
+<b>1</b>.given several small pictures, merge them into one bitmap.
+
+look at following screenshots:<br/>
 1.the given small pictures:
 
 ![image](https://github.com/yixinwei/MergeMultiImageIntoBitmap/raw/master/screenshot/1.jpg)
 
-2.use the small pictures, result in the following bitmap:
+<br/>
+<b>2</b>.use the small pictures, result in the following bitmap:
 
 ![image](https://github.com/yixinwei/MergeMultiImageIntoBitmap/raw/master/screenshot/2.jpg)
