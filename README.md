@@ -1,0 +1,1 @@
+![image](https://github.com/yixinwei/MergeMultiImageIntoBitmap/raw/master/screenshot/1.jpg)
